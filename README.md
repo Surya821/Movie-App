@@ -35,11 +35,8 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Environment Variables](#environment-variables)
   - [Usage](#usage)
-- [Features](#features)
-- [Folder Structure](#folder-structure)
-- [License](#license)
+
 
 ---
 
