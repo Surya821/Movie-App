@@ -30,12 +30,12 @@
 
 ## 📑 Table of Contents
 
-- [Overview](#overview)
-- [Demo](#demo)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
+- [Overview](##overview)
+- [Demo](##demo)
+- [Getting Started](##getting-started)
+  - [Prerequisites](###prerequisites)
+  - [Installation](###installation)
+  - [Usage](##usage)
 
 
 ---
